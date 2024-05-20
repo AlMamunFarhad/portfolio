@@ -370,6 +370,10 @@ aside .bi-brightness-high {
   margin-top: .7rem;
 }
 
+.github-img {
+  width: 4rem !important;
+}
+
 .skills-content .bootstrap-icon {
   padding-top: .1rem;
   width: 3.7rem !important;
